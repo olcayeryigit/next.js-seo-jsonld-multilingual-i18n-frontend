@@ -1,0 +1,38 @@
+{
+  "home": {
+    "title": "Web Sitemize Hoşgeldiniz",
+    "description": "Bu, Next.js ile oluşturulmuş modern, SEO optimize edilmiş bir web sitesidir.",
+    "seo": {
+      "title": "Ana Sayfa | SEO Optimizasyonlu Sitem",
+      "description": "Modern teknolojilerle yapılmış SEO optimize edilmiş Next.js web sitemize hoşgeldiniz."
+    }
+  },
+  "about": {
+    "title": "Web Sitemize Hoşgeldiniz",
+    "description": "Hakkımızda Sayfası",
+    "seo": {
+      "title": "Hakkımızda | SEO Optimizasyonlu Sitem",
+      "description": "Hakkımızda Modern teknolojilerle yapılmış SEO optimize edilmiş Next.js web sitemize hoşgeldiniz."
+    }
+  },
+  "nav": {
+    "home": "Anasayfa",
+    "about": "Hakkımızda",
+    "products": "Ürünler",
+    "language": "Dil",
+    "en": "İngilizce",
+    "tr": "Türkçe"
+  },
+  "products": {
+    "title": "Web Sitemize Hoşgeldiniz",
+    "description": "Ürünler Sayfası",
+    "seo": {
+      "title": "Ürünler | SEO Optimizasyonlu Sitem",
+      "description": "Ürünler Modern teknolojilerle yapılmış SEO optimize edilmiş Next.js web sitemize hoşgeldiniz."
+    }
+  },
+  "product": {
+    "price": "Fiyat: {{p}}",
+    "viewDetails": "Detayları Gör"
+  }
+}

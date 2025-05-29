@@ -1,0 +1,38 @@
+{
+  "home": {
+    "title": "Welcome to Our Website",
+    "description": "This is a modern, SEO-optimized website built with Next.js.",
+    "seo": {
+      "title": "Home | My SEO Optimized Site",
+      "description": "Welcome to our SEO-optimized Next.js website, built with modern technologies."
+    }
+  },
+  "about": {
+    "title": "Welcome to Our Website",
+    "description": "About Page",
+    "seo": {
+      "title": "About | My SEO Optimized Site",
+      "description": "About Welcome to our SEO-optimized Next.js website, built with modern technologies."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "language": "Language",
+    "en": "English",
+    "tr": "Turkish"
+  },
+  "products": {
+    "title": "Web Sitemize Hoşgeldiniz",
+    "description": "Products Page",
+    "seo": {
+      "title": "Products | SEO Optimizasyonlu Sitem",
+      "description": "Products Modern teknolojilerle yapılmış SEO optimize edilmiş Next.js web sitemize hoşgeldiniz."
+    }
+  },
+  "product": {
+    "price": "Price: {{p}}",
+    "viewDetails": "View Details"
+  }
+}
