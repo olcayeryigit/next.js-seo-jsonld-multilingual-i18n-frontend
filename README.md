@@ -1,5 +1,7 @@
 # Next.js SEO & JSON-LD Multilingual i18n Frontend
 
+![Preview](public/preview.png)
+
 This project is a frontend application built with Next.js that supports multilingual (i18n), SEO optimization, and JSON-LD structured data. It is developed using modern technologies including TypeScript, Tailwind CSS, and ESLint.
 
 ---

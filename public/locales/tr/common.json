@@ -1,10 +1,10 @@
 {
   "home": {
     "title": "Web Sitemize Hoşgeldiniz",
-    "description": "Bu, Next.js ile oluşturulmuş modern, SEO optimize edilmiş bir web sitesidir.",
+    "description": "Bu, Next.js ile oluşturulmuş modern, SEO optimize edilmiş ve çok dilli (multilingual) destek sunan bir web sitesidir.",
     "seo": {
       "title": "Ana Sayfa | SEO Optimizasyonlu Sitem",
-      "description": "Modern teknolojilerle yapılmış SEO optimize edilmiş Next.js web sitemize hoşgeldiniz."
+      "description": "Modern teknolojilerle yapılmış SEO optimize edilmiş ve çok dilli (multilingual) Next.js web sitemize hoşgeldiniz."
     }
   },
   "about": {

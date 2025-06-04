@@ -1,7 +1,7 @@
 {
   "home": {
     "title": "Welcome to Our Website",
-    "description": "This is a modern, SEO-optimized website built with Next.js.",
+    "description": "This is a modern, SEO-optimized, and multilingual (multi-language) website built with Next.js.",
     "seo": {
       "title": "Home | My SEO Optimized Site",
       "description": "Welcome to our SEO-optimized Next.js website, built with modern technologies."
